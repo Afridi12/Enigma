@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/logo.unity
+    guid: cb3eca75d57a7664b993585fb0494295
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 4db873654252d4745be36d1353e595f7
+  - enabled: 1
+    path: Assets/Scenes/Maze.unity
+    guid: 7f394f8fc8f94a346b87703dd6b580a3
+  - enabled: 1
+    path: Assets/Scenes/IcePuzzle.unity
+    guid: 8e77751911e364c42910615eb5ad63d2
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: adde7267719ec7b4ea7b8bbcf446a072
+  - enabled: 1
+    path: Assets/Scenes/Cryptogram.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/FallingPuzzle.unity
+    guid: ba12ea1a60822f14ebadae34f3651928
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: c58865ac91116c04bb50d3445b55ab85
+  - enabled: 1
+    path: Assets/Scenes/Mazecontrol.unity
+    guid: 8525c682556625e499fad9b91ccfc660
+  - enabled: 1
+    path: Assets/Scenes/Icecontrol.unity
+    guid: 9867c9560db4cfd4e85e49d1055df5e1
+  - enabled: 1
+    path: Assets/Scenes/circlecontrol.unity
+    guid: 9307130a37b20b5498767b586e74ed97
+  - enabled: 1
+    path: Assets/Scenes/cryptogramcontrol.unity
+    guid: 4cad083f7988556489f18ec7341fd73f
+  - enabled: 0
+    path: Assets/Scenes/Control.unity
+    guid: 2cd30a93f1d375a43b497d835b4695ce
+  - enabled: 1
+    path: Assets/Scenes/Freefallcontrol.unity
+    guid: b0c576d214a301f41a9ae5ccc9ba63c3
+  m_configObjects: {}
